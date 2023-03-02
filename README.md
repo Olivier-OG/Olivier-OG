@@ -12,6 +12,6 @@
 
 ## :fire: My Stats
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olivier- OG&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olivier-OG&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily)
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&layout=compact&theme=blue-green)
+<!-- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier-OG&layout=compact&theme=blue-green) -->
