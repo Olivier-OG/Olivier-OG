@@ -41,7 +41,6 @@
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-4a94e6?style=for-the-badge&logo=docker&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Database
 
